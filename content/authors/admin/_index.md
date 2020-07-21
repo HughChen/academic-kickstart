@@ -61,6 +61,9 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+I am interested in machine learning with societal impact. My work focuses on ML for healthcare applications and on explaining ML models including tree models and deep models. In particular, my algorithm and code for Interventional Tree Explainer is the default method for explaining trees in the popular SHAP repository.
+
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
